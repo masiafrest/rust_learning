@@ -1,1 +1,7 @@
-/target
+target
+debug
+*.swp
+.DS_Store
+*.py
+**/*.rs.bk
+Cargo.lock
