@@ -1,0 +1,11 @@
+/Users/juliozeng/Project/rust_tutorial/command-line-oreally/04_headr/target/debug/deps/assert_cmd-618b98c63086372f.rmeta: /Users/juliozeng/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.12/src/lib.rs /Users/juliozeng/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.12/src/assert.rs /Users/juliozeng/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.12/src/cargo.rs /Users/juliozeng/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.12/src/cmd.rs /Users/juliozeng/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.12/src/output.rs /Users/juliozeng/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.12/src/color.rs /Users/juliozeng/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.12/src/../README.md
+
+/Users/juliozeng/Project/rust_tutorial/command-line-oreally/04_headr/target/debug/deps/assert_cmd-618b98c63086372f.d: /Users/juliozeng/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.12/src/lib.rs /Users/juliozeng/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.12/src/assert.rs /Users/juliozeng/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.12/src/cargo.rs /Users/juliozeng/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.12/src/cmd.rs /Users/juliozeng/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.12/src/output.rs /Users/juliozeng/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.12/src/color.rs /Users/juliozeng/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.12/src/../README.md
+
+/Users/juliozeng/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.12/src/lib.rs:
+/Users/juliozeng/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.12/src/assert.rs:
+/Users/juliozeng/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.12/src/cargo.rs:
+/Users/juliozeng/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.12/src/cmd.rs:
+/Users/juliozeng/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.12/src/output.rs:
+/Users/juliozeng/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.12/src/color.rs:
+/Users/juliozeng/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.12/src/../README.md:

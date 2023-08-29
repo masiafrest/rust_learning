@@ -1,0 +1,11 @@
+/Users/juliozeng/Project/rust_tutorial/command-line-oreally/headr/target/debug/deps/assert_cmd-324fc6f2d097fc48.rmeta: /Users/juliozeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/lib.rs /Users/juliozeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/assert.rs /Users/juliozeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/cargo.rs /Users/juliozeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/cmd.rs /Users/juliozeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/output.rs /Users/juliozeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/color.rs /Users/juliozeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/../README.md
+
+/Users/juliozeng/Project/rust_tutorial/command-line-oreally/headr/target/debug/deps/assert_cmd-324fc6f2d097fc48.d: /Users/juliozeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/lib.rs /Users/juliozeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/assert.rs /Users/juliozeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/cargo.rs /Users/juliozeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/cmd.rs /Users/juliozeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/output.rs /Users/juliozeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/color.rs /Users/juliozeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/../README.md
+
+/Users/juliozeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/lib.rs:
+/Users/juliozeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/assert.rs:
+/Users/juliozeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/cargo.rs:
+/Users/juliozeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/cmd.rs:
+/Users/juliozeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/output.rs:
+/Users/juliozeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/color.rs:
+/Users/juliozeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/../README.md:
